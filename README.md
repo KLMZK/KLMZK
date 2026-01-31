@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Kevin Lara</h1>
 
-<!--
-**KLMZK/KLMZK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi :
 
-Here are some ideas to get you started:
+-🎓 Estudiante de TSU en Desarrollo de Software Multiplataforma en la Universidad Tecnológica de Tabasco (UTTAB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interesado en programación, desarrollo de aplicaciones y soluciones tecnológicas
+
+- 🚀 En constante aprendizaje y mejora de habilidades técnicas
+
+- 🏡 Villahermosa, Tabasco
+
+<br>
+
+## Connect with me ☕ :
+
+<br>
+
+[![@KevinLara](https://img.icons8.com/fluency/48/000000/linkedin.png "@KevinLara")](https://www.linkedin.com/in/lara-martinez-kevin/)[![@9371644398](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@9371644398")](tel:9371644398) [![@kevin.roni.lara@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@kevin.roni.lara@gmail.com")](kevin.roni.lara@gmail.com)
+
+<br>
+
+## Soy bueno en 🧑‍💻 :
+
+<br>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+
+<br>
+
+## GitHub Stats 📈 :
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/KLMZK">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KLMZK&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/KLMZK">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KLMZK&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
