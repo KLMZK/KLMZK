@@ -10,9 +10,6 @@
 
 - 🏡 Villahermosa, Tabasco
 
-<br>
-
-## Connect with me ☕ :
 
 <br>
 
