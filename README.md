@@ -16,10 +16,6 @@
 
 <br>
 
-[![@KevinLara](https://img.icons8.com/fluency/48/000000/linkedin.png "@KevinLara")](https://www.linkedin.com/in/lara-martinez-kevin/)[![@9371644398](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@9371644398")](tel:9371644398) [![@kevin.roni.lara@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@kevin.roni.lara@gmail.com")](kevin.roni.lara@gmail.com)
-
-<br>
-
 ## Soy bueno en 🧑‍💻 :
 
 <br>
